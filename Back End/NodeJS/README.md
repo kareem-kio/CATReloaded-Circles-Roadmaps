@@ -49,8 +49,8 @@ _By the end of this level, the learner should know_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSS Crash Course)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
+                    <li>[ ]<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSS Crash Course)</a></li>
+                    <li>✅<a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <a href="https://forms.gle/g1bgk6kduHUki6xv5">Week 1 Quiz</a>
